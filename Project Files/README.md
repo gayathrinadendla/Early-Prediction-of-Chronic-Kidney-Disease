@@ -1,4 +1,4 @@
-# Early Prediction of Chronic Kidney Disease
+ # Early Prediction of Chronic Kidney Disease
 
 ## Project Overview
 This project aims to predict the likelihood of Chronic Kidney Disease (CKD) using machine learning. The web application allows users to input their health data and provides real-time predictions. The goal is to facilitate early diagnosis and treatment.
